@@ -1,1 +1,4 @@
 Print("Hello World")
+printf("Hello World");
+console.log("Hello World");
+System.out.print("Hello World");
